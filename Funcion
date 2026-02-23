@@ -1,0 +1,17 @@
+Nombre: Guillermo Cedano Polanco 
+Matrícula: 25-SISN-2-019
+Asignatura: Algoridmo Computacionales
+
+¿Qué hace el programa? 
+-Este programa calcula la cuota mensual de un préstamo.
+
+¿Qué datos recibe de entrada?
+-Monto del préstamo
+-Tasa de interés anual
+-Tiempo a pagar en meses
+
+¿Qué datos procesa?
+-Cuota mensual del préstamo
+
+¿Qué datos imprime?
+-Cuota mensual
